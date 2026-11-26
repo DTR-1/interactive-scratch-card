@@ -1,0 +1,2 @@
+# Lucky Drop
+Interactive portfolio scratch card with fictional rewards. Open index.html or publish via GitHub Pages. Embed scratch.js and call LuckyDrop.open(). The default portfolio outcome is a guaranteed win; production prize allocation must be validated on a server.
